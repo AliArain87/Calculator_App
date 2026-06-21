@@ -4,6 +4,8 @@ A simple command-line calculator built in **Python** — my first project for th
 
 It asks the user for two numbers and instantly shows the results of all the basic math operations.
 
+You will enjoy this project!
+
 ---
 
 ## ✨ What it does
